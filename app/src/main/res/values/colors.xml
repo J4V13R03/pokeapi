@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pokémon Theme -->
+    <color name="pokemon_yellow">#FFFDD835</color>
+    <color name="pokemon_yellow_dark">#FFF9A825</color>
+    <color name="pokemon_yellow_light">#FFFFF176</color>
+    <color name="pokemon_red">#FFD32F2F</color>
+    <color name="pokemon_red_dark">#FFB71C1C</color>
+    <color name="pokemon_blue">#FF1565C0</color>
+    <color name="pokemon_background">#FFFFF8E1</color>
+    <color name="pokemon_card">#FFFFFFFF</color>
+    <color name="pokemon_text_primary">#FF212121</color>
+    <color name="pokemon_text_secondary">#FF757575</color>
+    <color name="pokemon_divider">#FFE0E0E0</color>
+    <color name="pokemon_capture_bg">#FF4CAF50</color>
+    <color name="pokemon_stats_bg">#FF1B5E20</color>
+</resources>

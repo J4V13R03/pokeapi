@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokéHunter</string>
+    <string name="splash_title">PokéHunter</string>
+    <string name="splash_subtitle">Cargando…</string>
+    <string name="no_connection">Sin conexión a internet</string>
+    <string name="capture">Capturar</string>
+    <string name="captured">¡Capturado!</string>
+    <string name="escape">¡Escapó!</string>
+    <string name="belongs_to_other">Este pokémon le pertenece a otro entrenador</string>
+    <string name="play_sound">🔊 Escuchar sonido</string>
+    <string name="view_stats">📊 Ver Stats</string>
+    <string name="pokedex_title">Pokédex</string>
+    <string name="main_title">Pokémon</string>
+    <string name="stats_title">Estadísticas</string>
+    <string name="hp">PS</string>
+    <string name="attack">Ataque</string>
+    <string name="defense">Defensa</string>
+    <string name="ok">OK</string>
+    <string name="loading">Cargando pokémones…</string>
+    <string name="pokedex_empty">Aún no has capturado ningún pokémon</string>
+    <string name="retry">Reintentar</string>
+    <string name="open_pokedex">Pokédex</string>
+</resources>
