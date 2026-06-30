@@ -34,7 +34,7 @@ import cl.pokemon.pokehunter.util.NetworkUtil;
 public class MainActivity extends AppCompatActivity implements PokemonAdapter.OnCaptureClickListener {
 
     private static final Set<String> MY_POKEMON = new HashSet<>(Arrays.asList(
-            "gardevoir", "dragapult", "mamoswine", "giratina", "lopunny"
+            "gardevoir", "dragapult", "mamoswine", "giratina-altered", "lopunny"
     ));
 
     private static final String LIST_URL = "https://pokeapi.co/api/v2/pokemon?limit=20";
